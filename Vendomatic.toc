@@ -1,0 +1,14 @@
+## Interface: 11302
+## Title: Vendomatic
+## Notes: Automatic selling of grey/green items, automatic restocking reagents & ammo and automatic repair
+## X-Date: @file-date-iso@
+## Author: miketheitguy
+## X-Email: miketheitguy@users.noreply.github.com
+## X-GitCommitHash: @project-revision@
+## X-Feedback: https://github.com/miketheitguy/Vendomatic
+## X-Website: https://github.com/miketheitguy/Vendomatic
+## SavedVariablesPerCharacter: VendomaticOptions
+## Version: @project-version@
+
+Vendomatic.lua
+Vendomatic.xml
